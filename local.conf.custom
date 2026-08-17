@@ -1,0 +1,4 @@
+# ── STM32MP215F-DK custom settings ──
+MACHINE = "stm32mp21-disco"
+DISTRO = "openstlinux-weston"
+INIT_MANAGER = "systemd"

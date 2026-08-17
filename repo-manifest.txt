@@ -1,0 +1,9 @@
+# my-stm 專案 layer 版本紀錄
+# 產生時間: 2026-08-17（原機器：/home/wayne/my-stm）
+# 格式: <目錄名>  <remote url>  <branch>  <commit>
+# 這 4 個 repo 在原機器上皆為 clean（git status 乾淨，無未提交修改）。
+
+poky                  https://git.yoctoproject.org/poky                          scarthgap  6b7474f7ca29076d28df81a49feec6311fa18202
+meta-openembedded     https://github.com/openembedded/meta-openembedded          scarthgap  29a044218285fdc7fcdd63d5f0929cb3a27b6fed
+meta-st-openstlinux   https://github.com/STMicroelectronics/meta-st-openstlinux  scarthgap  b0316f706bcf34e8449d43aba3c630030f2cc366
+meta-st-stm32mp       https://github.com/stmicroelectronics/meta-st-stm32mp      scarthgap  49046b2a0ad4dc29117025c94838b9befff86f23
