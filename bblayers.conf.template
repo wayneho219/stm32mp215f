@@ -17,4 +17,5 @@ BBLAYERS ?= " \
   __PROJECT_ROOT__/meta-openembedded/meta-multimedia \
   __PROJECT_ROOT__/meta-st-stm32mp \
   __PROJECT_ROOT__/meta-st-openstlinux \
+  __PROJECT_ROOT__/meta-wayne \
   "
